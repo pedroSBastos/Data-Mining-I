@@ -1,0 +1,181 @@
+ID,age_at_mammo,CLOCKFACE_LOCATION_OR_REGION,MASS_SHAPE,MASS_MARGINS_1,MASS_MARGINS_2,SIDE,DEPTH,MASS_MARGINS_worst,QUADRANT_LOCATION_def,SIZE,OVERALL_BREAST_COMPOSITION,retro_density,outcome_num
+1,60,11,X,,,R,P,,Upper Outer,10,scattered fibroglandular densities,iso,1
+2,86,12,X,I,I,L,M,Indistinct,Upper Inner,21,almost entirely fat,high,1
+3,59,12,X,S,S,L,M,Spiculated,Upper Outer,13,scattered fibroglandular densities,iso,1
+4,47,12,R,D,D,L,M,Circumscribed,Upper Inner,15,heterogeneously dense,iso,0
+5,69,C,R,,,L,M,,,9,heterogeneously dense,iso,0
+6,61,7,X,I,I,L,A,Indistinct,Lower Inner,11,scattered fibroglandular densities,iso,0
+7,52,1,X,I,I,L,M,Indistinct,Upper Outer,45,scattered fibroglandular densities,high,1
+8,40,11,O,D,D,L,P,Circumscribed,Upper Inner,17,heterogeneously dense,iso,0
+9,80,12,L,I,I,L,M,Indistinct,Upper Inner,8,almost entirely fat,iso,0
+10,81,12,O,I,I,L,M,Indistinct,Upper Inner,9,almost entirely fat,iso,1
+11,41,12,O,,,L,M,,Upper Inner,20,heterogeneously dense,iso,0
+12,44,1,O,D,D,L,,Circumscribed,,16,heterogeneously dense,iso,0
+13,58,10,O,D,D,R,M,Circumscribed,Upper Outer,10,scattered fibroglandular densities,iso,0
+14,63,12,O,D,D,R,M,Circumscribed,Upper Inner,8,almost entirely fat,high,1
+15,95,11,X,M,M,L,M,Microlobulated,Upper Inner,20,heterogeneously dense,high,1
+16,84,C,R,I,I,R,M,Indistinct,,10,scattered fibroglandular densities,high,1
+17,46,C,O,I,I,R,A,Indistinct,,10,scattered fibroglandular densities,iso,0
+18,54,3,O,U,U,L,M,Obscured,Upper Outer,10,heterogeneously dense,iso,0
+19,68,3,X,I,I,R,M,Indistinct,Lower Inner,7,heterogeneously dense,iso,1
+20,47,10,R,U,U,R,A,Obscured,Upper Outer,10,scattered fibroglandular densities,iso,1
+21,57,11,L,I,I,R,P,Indistinct,Upper Outer,18,heterogeneously dense,high,1
+22,60,10,R,U,U,L,P,Obscured,Lower Inner,5,extremely dense,iso,0
+23,52,11,O,D,D,L,M,Circumscribed,Upper Inner,11,almost entirely fat,high,0
+24,51,6,R,D,D,R,A,Circumscribed,Lower Outer,5,scattered fibroglandular densities,iso,0
+25,51,1,O,D,D,L,,Circumscribed,Upper Outer,14,scattered fibroglandular densities,iso,0
+26,42,C,O,D,D,R,,Circumscribed,,10,almost entirely fat,iso,0
+27,61,6,O,U,U,R,M,Obscured,,11,scattered fibroglandular densities,iso,0
+28,49,3,X,S,S,R,M,Spiculated,Lower Inner,4,heterogeneously dense,iso,1
+29,53,2,O,D,D,L,P,Circumscribed,Upper Outer,6,scattered fibroglandular densities,iso,0
+30,76,12,R,,,R,A,,,4,scattered fibroglandular densities,iso,0
+31,74,1,R,U,S,R,M,Spiculated,Upper Inner,18,heterogeneously dense,high,1
+32,74,3,L,S,S,R,,Spiculated,Lower Inner,12,heterogeneously dense,high,1
+33,35,4,R,D,D,R,M,Circumscribed,Lower Inner,12,extremely dense,iso,0
+34,61,7,L,M,M,R,P,Microlobulated,Lower Outer,8,almost entirely fat,iso,0
+35,87,10,O,I,I,R,P,Indistinct,Upper Outer,6,almost entirely fat,iso,1
+36,76,11,L,D,D,R,M,Circumscribed,Upper Outer,7,almost entirely fat,iso,1
+37,80,11,X,S,S,R,P,Spiculated,Upper Outer,11,scattered fibroglandular densities,iso,1
+38,57,2,O,U,U,R,A,Obscured,Lower Inner,12,scattered fibroglandular densities,iso,0
+39,59,10,X,S,S,R,M,Spiculated,Upper Outer,10,scattered fibroglandular densities,iso,1
+40,82,10,O,S,S,R,M,Spiculated,Upper Outer,7,heterogeneously dense,iso,1
+41,60,11,X,I,I,R,P,Indistinct,Upper Outer,24,scattered fibroglandular densities,high,1
+42,43,11,O,M,M,L,M,Microlobulated,Upper Inner,21,heterogeneously dense,iso,0
+43,52,11,,S,S,R,A,Spiculated,Upper Outer,20,scattered fibroglandular densities,high,1
+44,42,11,R,U,U,R,P,Obscured,Upper Outer,15,heterogeneously dense,iso,0
+45,57,12,O,D,D,R,A,Circumscribed,Upper Outer,5,heterogeneously dense,iso,0
+46,81,6,O,D,D,R,A,Circumscribed,Lower Inner,7,scattered fibroglandular densities,iso,1
+47,41,2,X,I,I,L,M,Indistinct,Upper Outer,16,scattered fibroglandular densities,high,1
+48,39,1,O,D,D,L,,Circumscribed,,18,heterogeneously dense,high,0
+49,41,5,,D,D,R,A,Circumscribed,Lower Inner,16,scattered fibroglandular densities,iso,0
+50,56,12,L,D,D,L,A,Circumscribed,,1,heterogeneously dense,iso,0
+51,41,6,O,D,D,R,P,Circumscribed,Lower Inner,13,scattered fibroglandular densities,iso,0
+52,69,4,X,,,L,P,,Upper Outer,12,scattered fibroglandular densities,iso,1
+53,40,1,O,,,L,,,,16,extremely dense,iso,0
+54,66,11,O,I,I,R,A,Indistinct,Upper Outer,13,almost entirely fat,high,0
+55,55,11,,U,U,R,A,Obscured,Upper Outer,12,scattered fibroglandular densities,iso,0
+56,48,12,O,I,I,R,M,Indistinct,,12,heterogeneously dense,iso,0
+57,40,8,R,D,D,R,P,Circumscribed,Upper Outer,17,heterogeneously dense,high,0
+58,42,7,O,D,D,R,P,Circumscribed,Lower Outer,8,heterogeneously dense,iso,0
+59,37,12,X,S,S,R,P,Spiculated,Upper Outer,14,extremely dense,iso,1
+60,62,C,,S,S,R,A,Spiculated,,5,almost entirely fat,iso,0
+61,64,1,O,D,D,L,A,Circumscribed,Upper Outer,7,almost entirely fat,iso,0
+62,41,1,L,D,I,L,M,Indistinct,Upper Outer,20,heterogeneously dense,iso,0
+63,75,C,O,D,D,R,,Circumscribed,,17,almost entirely fat,high,1
+64,67,11,R,S,S,R,M,Spiculated,Upper Outer,10,almost entirely fat,high,1
+65,79,1,,I,I,L,M,Indistinct,Upper Outer,8,scattered fibroglandular densities,iso,1
+66,46,12,R,D,D,L,A,Circumscribed,Upper Inner,8,heterogeneously dense,iso,0
+67,61,6,X,,,L,P,,Lower Inner,34,heterogeneously dense,iso,0
+68,57,2,,I,I,L,M,Indistinct,Upper Outer,8,scattered fibroglandular densities,iso,0
+69,49,10,X,U,U,R,M,Obscured,Upper Outer,19,heterogeneously dense,iso,0
+70,39,11,O,D,D,R,,Circumscribed,,20,scattered fibroglandular densities,iso,0
+71,50,12,X,,,L,M,,Upper Outer,12,heterogeneously dense,iso,0
+72,78,10,O,I,I,R,M,Indistinct,Upper Outer,5,almost entirely fat,high,1
+73,47,5,R,D,D,R,M,Circumscribed,Lower Inner,12,heterogeneously dense,iso,0
+74,55,C,X,I,I,R,A,Indistinct,,13,heterogeneously dense,iso,1
+75,49,3,X,I,I,L,P,Indistinct,Upper Outer,13,heterogeneously dense,iso,1
+76,50,1,O,U,S,R,M,Spiculated,Upper Inner,15,heterogeneously dense,iso,1
+77,46,12,X,,,R,,,Upper Outer,20,heterogeneously dense,high,1
+78,66,11,O,D,D,R,P,Circumscribed,Upper Outer,20,almost entirely fat,high,1
+79,47,3,X,,,R,P,,Lower Inner,15,heterogeneously dense,iso,0
+80,49,11,R,D,D,R,P,Circumscribed,Upper Outer,13,scattered fibroglandular densities,iso,0
+81,35,7,,I,I,L,A,Indistinct,Lower Inner,28,heterogeneously dense,iso,0
+82,56,2,L,I,I,L,P,Indistinct,Upper Outer,6,heterogeneously dense,iso,0
+83,71,4,R,D,D,R,M,Circumscribed,Lower Inner,6,scattered fibroglandular densities,iso,0
+84,50,4,X,I,I,L,M,Indistinct,Upper Outer,19,heterogeneously dense,iso,0
+85,57,12,R,D,D,L,M,Circumscribed,Upper Inner,5,scattered fibroglandular densities,iso,0
+86,64,2,R,D,D,L,A,Circumscribed,Upper Outer,8,heterogeneously dense,iso,0
+87,57,C,L,U,U,R,A,Obscured,,10,scattered fibroglandular densities,iso,0
+88,41,1,L,I,I,L,A,Indistinct,Upper Outer,30,extremely dense,iso,0
+89,41,1,L,D,D,L,,Circumscribed,,12,scattered fibroglandular densities,high,0
+90,86,3,X,,,R,M,,Lower Inner,7,almost entirely fat,iso,1
+91,57,3,O,I,I,L,A,Indistinct,Upper Outer,30,scattered fibroglandular densities,high,1
+92,45,12,O,,,L,P,,Upper Inner,20,heterogeneously dense,iso,0
+93,36,6,R,D,D,L,M,Circumscribed,Lower Inner,16,extremely dense,iso,0
+94,60,12,O,,,L,P,,Upper Inner,6,almost entirely fat,iso,0
+95,59,12,X,U,S,R,A,Spiculated,Upper Inner,21,heterogeneously dense,iso,1
+96,69,2,R,D,D,R,A,Circumscribed,,6,scattered fibroglandular densities,iso,0
+97,47,6,R,D,D,R,M,Circumscribed,Lower Inner,5,extremely dense,iso,0
+98,67,12,R,D,D,L,M,Circumscribed,Upper Inner,6,almost entirely fat,high,1
+99,63,9,X,S,S,L,M,Spiculated,Lower Inner,6,almost entirely fat,high,1
+100,64,2,L,D,D,L,P,Circumscribed,Upper Outer,6,scattered fibroglandular densities,iso,1
+101,83,6,X,S,S,L,A,Spiculated,Lower Inner,15,almost entirely fat,high,1
+102,46,4,L,D,D,R,A,Circumscribed,Lower Inner,8,scattered fibroglandular densities,iso,0
+103,51,12,R,U,U,R,A,Obscured,Upper Outer,20,scattered fibroglandular densities,high,0
+104,37,1,,D,D,L,P,Circumscribed,Upper Outer,8,extremely dense,iso,0
+105,50,1,X,I,I,L,M,Indistinct,Upper Outer,18,scattered fibroglandular densities,high,1
+106,61,1,X,S,S,R,M,Spiculated,Upper Inner,10,scattered fibroglandular densities,iso,1
+107,94,C,L,,,L,,,,36,almost entirely fat,high,1
+108,40,3,R,D,D,L,P,Circumscribed,Upper Outer,30,scattered fibroglandular densities,iso,0
+109,44,6,O,D,D,R,P,Circumscribed,Lower Inner,31,heterogeneously dense,high,0
+110,38,10,L,,,R,A,,Upper Outer,19,extremely dense,iso,0
+111,57,5,X,,,R,A,,Lower Inner,5,scattered fibroglandular densities,iso,0
+112,66,C,X,I,I,L,A,Indistinct,,25,almost entirely fat,high,1
+113,48,1,X,S,S,R,A,Spiculated,Upper Inner,18,heterogeneously dense,high,1
+114,43,11,O,,,L,P,,Upper Inner,12,heterogeneously dense,iso,0
+115,78,8,R,M,M,R,M,Microlobulated,Upper Outer,14,heterogeneously dense,high,1
+116,43,6,O,D,D,L,,Circumscribed,Lower Inner,11,scattered fibroglandular densities,iso,0
+117,67,2,R,U,U,L,M,Obscured,Upper Outer,9,scattered fibroglandular densities,iso,1
+118,51,C,X,,,R,A,,,16,heterogeneously dense,iso,0
+119,51,8,X,I,I,L,M,Indistinct,Lower Inner,9,heterogeneously dense,iso,0
+120,80,10,X,,,L,A,,,15,scattered fibroglandular densities,high,0
+121,35,6,O,,,L,M,,Lower Inner,30,scattered fibroglandular densities,high,1
+122,74,12,O,U,U,R,M,Obscured,Upper Inner,30,extremely dense,high,1
+123,42,C,O,D,D,L,A,Circumscribed,,18,heterogeneously dense,high,1
+124,53,5,O,,,L,P,,Lower Outer,14,heterogeneously dense,iso,0
+125,51,11,O,U,I,R,P,Indistinct,Upper Outer,11,heterogeneously dense,iso,1
+126,49,1,O,D,D,R,M,Circumscribed,Upper Inner,8,scattered fibroglandular densities,iso,0
+127,43,12,R,U,U,R,M,Obscured,Upper Inner,8,heterogeneously dense,iso,0
+128,67,1,R,D,D,R,M,Circumscribed,Upper Inner,8,heterogeneously dense,iso,0
+129,38,2,R,U,U,L,M,Obscured,Upper Outer,8,heterogeneously dense,iso,0
+130,58,6,O,,,R,M,,Lower Inner,10,scattered fibroglandular densities,iso,0
+131,64,C,X,U,U,L,M,Obscured,,10,scattered fibroglandular densities,iso,1
+132,58,12,X,,,L,M,,Upper Inner,20,heterogeneously dense,high,0
+133,51,C,L,U,U,L,,Obscured,,15,heterogeneously dense,high,0
+134,42,11,R,U,U,R,M,Obscured,Upper Outer,20,extremely dense,iso,0
+135,64,1,,U,U,L,A,Obscured,Upper Outer,20,heterogeneously dense,iso,0
+136,46,1,X,,,R,P,,Upper Inner,6,heterogeneously dense,iso,1
+137,69,10,X,I,I,R,P,Indistinct,Upper Outer,12,almost entirely fat,iso,1
+138,75,6,O,,,L,P,,Lower Inner,18,scattered fibroglandular densities,high,1
+139,62,1,O,D,D,L,A,Circumscribed,Upper Outer,8,almost entirely fat,iso,0
+140,40,4,O,D,D,R,P,Circumscribed,Lower Inner,15,heterogeneously dense,iso,0
+141,37,12,O,D,D,L,M,Circumscribed,Upper Inner,10,scattered fibroglandular densities,iso,0
+142,41,C,X,I,I,L,,Indistinct,,30,heterogeneously dense,high,1
+143,36,3,R,D,D,R,M,Circumscribed,Lower Inner,10,scattered fibroglandular densities,iso,0
+144,44,1,X,I,I,L,M,Indistinct,Upper Outer,32,heterogeneously dense,high,1
+145,50,2,,U,U,R,A,Obscured,Lower Inner,10,heterogeneously dense,iso,1
+146,58,12,X,S,S,R,P,Spiculated,Upper Outer,15,scattered fibroglandular densities,high,1
+147,59,6,O,D,D,R,A,Circumscribed,Lower Inner,3,almost entirely fat,iso,0
+148,52,8,O,D,D,R,A,Circumscribed,,8,heterogeneously dense,iso,0
+149,43,12,,,,L,P,,,10,heterogeneously dense,iso,0
+150,44,3,L,D,D,R,M,Circumscribed,Lower Inner,15,heterogeneously dense,iso,0
+151,44,12,O,D,D,R,M,Circumscribed,Upper Inner,23,heterogeneously dense,high,0
+152,44,11,L,D,D,L,M,Circumscribed,Upper Inner,20,heterogeneously dense,iso,0
+153,41,2,O,D,D,L,P,Circumscribed,Upper Outer,10,scattered fibroglandular densities,iso,0
+154,52,12,X,I,I,R,M,Indistinct,Upper Outer,10,scattered fibroglandular densities,high,1
+155,52,10,X,S,S,R,M,Spiculated,Upper Outer,25,scattered fibroglandular densities,high,1
+156,33,12,R,,,R,M,,Upper Inner,8,heterogeneously dense,iso,0
+157,46,1,X,I,I,R,P,Indistinct,Upper Inner,15,scattered fibroglandular densities,iso,0
+158,40,3,O,D,D,L,M,Circumscribed,Upper Outer,10,almost entirely fat,iso,0
+159,50,1,X,S,S,R,A,Spiculated,Upper Inner,20,scattered fibroglandular densities,iso,1
+160,46,11,O,D,D,R,A,Circumscribed,Upper Outer,11,scattered fibroglandular densities,iso,0
+161,41,12,O,U,U,R,P,Obscured,Upper Inner,16,scattered fibroglandular densities,iso,0
+162,44,3,O,I,I,L,M,Indistinct,Upper Outer,10,heterogeneously dense,iso,0
+163,40,8,L,D,D,L,M,Circumscribed,Lower Inner,13,extremely dense,iso,0
+164,62,12,X,S,S,R,A,Spiculated,Upper Inner,15,almost entirely fat,high,1
+165,36,11,R,I,I,L,M,Indistinct,Upper Inner,17,heterogeneously dense,iso,0
+166,46,6,R,I,I,L,M,Indistinct,Lower Inner,10,heterogeneously dense,high,1
+167,88,11,X,S,S,L,A,Spiculated,Upper Inner,15,scattered fibroglandular densities,high,1
+168,39,12,L,U,U,R,P,Obscured,,20,extremely dense,iso,0
+169,57,7,X,S,S,R,A,Spiculated,Lower Outer,20,almost entirely fat,high,1
+170,56,C,L,D,D,L,A,Circumscribed,,72,scattered fibroglandular densities,high,0
+171,35,6,X,U,U,R,P,Obscured,,14,heterogeneously dense,iso,0
+172,47,2,O,D,U,L,M,Obscured,Upper Outer,12,heterogeneously dense,iso,0
+173,67,6,R,,,L,M,,Lower Inner,5,almost entirely fat,iso,0
+174,45,3,R,D,D,R,A,Circumscribed,Lower Inner,24,heterogeneously dense,high,0
+175,50,11,X,S,S,R,M,Spiculated,Upper Outer,42,scattered fibroglandular densities,high,1
+176,47,10,,U,I,R,M,Indistinct,Upper Outer,7,heterogeneously dense,iso,0
+177,62,11,L,I,I,L,M,Indistinct,Upper Inner,22,almost entirely fat,high,1
+178,62,11,X,S,S,R,M,Spiculated,Upper Outer,13,almost entirely fat,high,1
+179,49,11,O,U,U,R,M,Obscured,Upper Outer,33,heterogeneously dense,high,1
+180,64,1,L,D,D,L,A,Circumscribed,Upper Outer,12,heterogeneously dense,high,0
